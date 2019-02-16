@@ -1,0 +1,4 @@
+FSharp.Core
+
+group Security
+    nuget KeePassLib

@@ -1,0 +1,9 @@
+// Download and install only for netcoreapp2.1
+framework: netcoreapp2.1
+
+source https://www.nuget.org/api/v2
+nuget FSharp.Core
+
+group Security
+    source https://nuget.org/api/v2
+    nuget KeePassLib 2.30.0

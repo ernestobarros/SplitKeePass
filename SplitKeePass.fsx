@@ -1,4 +1,4 @@
-﻿#r @"script-packages/packages/security/KeePassLib/lib/KeePassLib.dll"
+﻿#r @"packages/security/KeePassLib/lib/KeePassLib.dll"
 open KeePassLib
 open KeePassLib.Keys
 open KeePassLib.Serialization

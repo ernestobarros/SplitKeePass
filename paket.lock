@@ -1,0 +1,9 @@
+RESTRICTION: == netcoreapp2.1
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (4.6.2)
+
+GROUP Security
+NUGET
+  remote: https://www.nuget.org/api/v2
+    KeePassLib (2.30)
